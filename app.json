@@ -30,7 +30,7 @@
         }, 
     "SUDO": {
             "description": "Add superuser to this bot",
-            "required": false
+            "required": false,
             "value": "919895809960"
         },
     "NORMAL": {
